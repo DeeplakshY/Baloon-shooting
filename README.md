@@ -1,0 +1,1 @@
+This is an augmented reality (AR) shooting game made using Unity. The objective of the game is to shoot balloons within a time limit of 30 seconds. The game keeps track of the player's score and allows them to restart the game after the time runs out.
